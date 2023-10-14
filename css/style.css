@@ -1,0 +1,58 @@
+#tv{
+    background-color: #E8D947}
+#fan{
+
+    background-color: #B7AB36;
+    
+}    
+#wifi{
+
+    background-color: #958A21;
+}
+body{
+    background-color: beige;
+}
+/* #explore{
+text-align: center;
+background-color: aqua;
+
+
+} */
+.col a{
+    text-align: center;
+    padding-left: 700px ;
+    margin-right: 700px;
+    align-items: center;
+
+}
+.new{
+
+
+
+    background-color: rgb(198, 170, 58);
+    text-align: center;
+    font-size: 40px;
+    border-radius: 20px;
+    border: 10px;
+    border-color: #E8D947;
+}
+.new1{
+
+
+
+    background-color: rgb(198, 170, 58);
+    text-align: center;
+    font-size: 40px;
+    text-decoration-color: black;
+    border-left: 20px;
+    border-color: black;
+    border: 20px black;
+    border-radius: 10px;
+
+}
+.btn custom-btn smoothscroll{
+
+
+    box-sizing: border-box;
+    font-size: 30px;
+}
