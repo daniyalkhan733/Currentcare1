@@ -1,14 +1,86 @@
-#tv{
-    background-color: #E8D947}
-#fan{
+
+#fan1{
+background-color: white;
+    border-color: black;
+    border-style: solid;
+    border-radius: 15px;
+    font-size: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+text-align: center;
+
+
+
+}
+
+
+    
+
+#fan1 a{
 
     background-color: #B7AB36;
-    
-}    
-#wifi{
+    color: yellow;
+    border-color: black;
+    border-style: solid;
+    font-size: 30px;
+    font-weight:bold;
 
-    background-color: #958A21;
-}
+
+    
+} 
+#wifi1{
+    background-color: white;
+        border-color: black;
+        border-style: solid;
+        border-radius: 15px;
+        font-size: 25px;
+        padding-left: 20px;
+        padding-right: 20px;}
+    
+    
+        
+    
+    #wifi1 a{
+    
+        background-color: #B7AB36;
+        color: yellow;
+        border-color: black;
+        border-style: solid;
+        font-size: 25px;
+        font-weight:bold;
+    
+    
+        
+    } #tv1{
+        background-color: white;
+            border-color: black;
+            border-style: solid;
+            border-radius: 15px;
+            font-size: 25px;
+            padding-left: 20px;
+            padding-right: 20px;}
+        
+        
+            
+        
+        #tv1 a{
+        
+            background-color: #B7AB36;
+            color: yellow;
+            border-color: black;
+            border-style: solid;
+            font-size: 25px;
+            font-weight:bold;
+        
+        
+            
+        } 
+img{
+
+    width: 100%;
+    border-radius: 20px;
+}       
+
 body{
     background-color: beige;
 }
@@ -49,6 +121,10 @@ background-color: aqua;
     border: 20px black;
     border-radius: 10px;
 
+
+}
+.new1 a{
+    color: black;
 }
 .btn custom-btn smoothscroll{
 
@@ -56,3 +132,22 @@ background-color: aqua;
     box-sizing: border-box;
     font-size: 30px;
 }
+/* fann */
+#heading h2{
+
+
+
+    background-color: rgb(198, 170, 58);
+    text-align: center;
+    font-size: 40px;
+    text-decoration-color: black;
+    border-left: 20px;
+    border-radius: 15px;
+
+}
+#repair{
+
+
+    font-size: 80px;
+}
+
