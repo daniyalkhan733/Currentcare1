@@ -1,7 +1,7 @@
 
 
 
-#### 1.**Fan Not Working Properly:**
+#### 1.**Fan Not Working Properly Solution Below:**
    - ***Issue:*** The fan doesn't spin or spins irregularly.
    - ***Solution:*** Check for any obstructions, ensure proper power supply, and inspect the motor and wiring for faults.
 
